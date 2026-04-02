@@ -12,8 +12,8 @@ export const SECTIONS: ContentSection[] = [
         type: 'photo'
       },
       {
-        url: 'https://picsum.photos/seed/kastraki-about-2/800/600',
-        caption: 'The entrance to the archaeological park.',
+        url: 'https://www.kastra.eu/pics/meligou1.jpg',
+        caption: 'The Kastraki tower.',
         type: 'photo'
       }
     ]
